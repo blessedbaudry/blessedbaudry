@@ -7,4 +7,4 @@ Educatioin: Kazan Federal University -> Fundamental Computer Science and Informa
 
 
 .KFU
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kazan_Federal_University_Logo.jpg/1024px-Kazan_Federal_University_Logo.jpg[Tux,250,350]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kazan_Federal_University_Logo.jpg/1024px-Kazan_Federal_University_Logo.jpg[Tux,450,400]
