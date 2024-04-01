@@ -7,5 +7,5 @@ Educatioin: Kazan Federal University -> Fundamental Computer Science and Informa
 
 
 .KFU
-[#img-sunset,link=https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259D%25D0%25B0%25D0%25B1%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B6%25D0%25BD%25D0%25BE%25D1%2587%25D0%25B5%25D0%25BB%25D0%25BD%25D0%25B8%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25B8%25D0%25BD%25D1%2581%25D1%2582%25D0%25B8%25D1%2582%25D1%2583%25D1%2582_%25D0%259A%25D0%25A4%25D0%25A3&psig=AOvVaw0Kl-mLc-1cmhGS7aKOR24L&ust=1712071904925000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCehYCroYUDFQAAAAAdAAAAABAE] 
+[#img-sunset,link=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kazan_Federal_University_Logo.jpg/1024px-Kazan_Federal_University_Logo.jpg] 
 image::sunset.jpg[Sunset,200,100]  
