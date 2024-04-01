@@ -2,9 +2,5 @@
 
 My https://t.me/AndreyBodryagin[telegram]
 
-I'm 22 year old.
+I'm 22 year old.\n
 Educatioin: Kazan Federal University -> Fundamental Computer Science and Information Technology
-
-
-.KFU
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kazan_Federal_University_Logo.jpg/1024px-Kazan_Federal_University_Logo.jpg[Tux,450,400]
