@@ -1,7 +1,11 @@
 = blessedbaudry
-:hardbreaks-option:
-My https://t.me/AndreyBodryagin[telegram]
 
-I'm 22 year old.
-Educatioin: Kazan Federal University -> Fundamental Computer Science and Information Technology
-Job: System Analyst in Alfa bank
+== About me:
+    * My name is Andrew Bodryagin
+    * Master's student at Kazan Federal University +
+    Fundamental Computer Science and Information Technology
+    * System Analyst of https://alfabank.ru[Alfa bank].
+
+== Contact with me:
+    * https://t.me/AndreyBodryagin[Telegram]
+    * email: blessedbaudry@gmail.com
